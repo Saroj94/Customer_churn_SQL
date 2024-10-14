@@ -19,6 +19,7 @@ The dataset entails customer information, including credit scores, age, tenure, 
 ## 📊 Data Analysis
 - The distribution of churned vs not churned; around 79.62% of the records are for “not churned” customers, and 20.38% are
 “churned”.
-- The analysis of gender, active membership, credit card ownership, and country-based churn reveals the following: Out of 4,543 female customers, 1,139 (25.07%) female customer churned, while 898 out of 5,457 male customers (16.47%) churned. Regardless of credit card ownership, around 20% of all customers churned. Inactive customers are almost twice as likely to churn compared to active customers (26.87% vs. 14.27%). Among the countries, Germany has the highest churn rate at 32.44%, followed by France and Spain, with 16.17% and 16.67% respectively.
+- The analysis of gender, active membership, credit card ownership, and country-based churn reveals the following: Out of 4,543 female customers, 1,139 (25.07%) female customer churned, while 898 out of 5,457 male customers (16.47%) churned.
+- Regardless of credit card ownership, around 20% of all customers churned. Inactive customers are almost twice as likely to churn compared to active customers (26.87% vs. 14.27%). Among the countries, Germany has the highest churn rate at 32.44%, followed by France and Spain, with 16.17% and 16.67% respectively.
 
 ## For More details Check out the Code
