@@ -6,11 +6,11 @@ Customer churn happens when customers stop using a company’s services and move
 
 ## 💼 Why It Matters:
 For any business, two key objectives are essential for growth:
-	1.Acquiring new customers
-	2.Retaining existing ones
+	- 1.Acquiring new customers
+	- 2.Retaining existing ones
 
 ## 🔎 Project Approach:
 To understand and address customer churn, data analysis plays a crucial role. By analyzing historical data, we can uncover hidden insights that help retain customers and improve business strategies. For this project, I used SQL to conduct a detailed churn analysis, identifying key factors that influence customer behavior.
 
 ## 📊 Tools Used:
-### - SQL (for analysis)
+- SQL (for analysis)
