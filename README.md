@@ -1,6 +1,7 @@
 # Customer_churn_Analysis
 🚀 Customer Churn Analysis SQL Project 🚀
-Project link:
+
+## Project link:
 🔍 What is Customer Churn?
 Customer churn happens when customers stop using a company’s services and move to competitors. In the banking world, this means losing customers to other banks. High churn rates can harm a bank’s reputation and point to deeper issues whether it’s poor customer experience, inefficient processes, or lack of competitive products.
 💼 Why It Matters:
